@@ -1,0 +1,1 @@
+const server = "These is a server"
